@@ -7,7 +7,13 @@ It follows a modular and reusable structure for scalable cloud deployment.
 
 ---
 
-## 🏗️ Infrastructure Components
+## 🏗️ Architecture Diagram & Output:
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/98666af3-fb4c-44ff-904d-3c05e748b5a4" />
+
+---
+
+## 🏗️ Infrastructure Components:
 
 - VPC (Networking with subnets & routing)
 - EC2 Instances
@@ -61,7 +67,7 @@ terraform-project/
 ### 2. Go to environment folder
 ```
 cd envs/dev
-envs/prod
+cd envs/prod
 ```
 
 ### 4. Validate configuration
@@ -76,23 +82,23 @@ terraform plan
 ```
 terraform apply -auto-approve
 ```
-###  🔐 Security
+###  🔐 Security:
 
-Terraform state files are ignored
-AWS keys are not committed
-Security groups restrict access
-Sensitive files excluded via .gitignore
+Terraform state files are ignored<br>
+AWS keys are not committed<br>
+Security groups restrict access<br>
+Sensitive files excluded via .gitignore<br>
 
-### 🧰 Prerequisites
-Terraform installed
-AWS CLI configured
-IAM permissions for required services
+### 🧰 Prerequisites:
+Terraform installed<br>
+AWS CLI configured<br>
+IAM permissions for required services<br>
 
-###  📌 Features
-Multi-environment setup (Dev & Prod)
-Modular Terraform architecture
-Reusable infrastructure code
-Scalable AWS design
+###  📌 Features:
+Multi-environment setup (Dev & Prod)<br>
+Modular Terraform architecture<br>
+Reusable infrastructure code<br>
+Scalable AWS design<br>
 
 ### 👨‍💻 Author
 
