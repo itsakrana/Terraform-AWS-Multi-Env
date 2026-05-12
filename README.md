@@ -7,9 +7,9 @@ It follows a modular and reusable structure for scalable cloud deployment.
 
 ---
 
-## 🏗️ Architecture Diagram & Output:
+## 🏗️ Architecture Diagram:
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/98666af3-fb4c-44ff-904d-3c05e748b5a4" />
+<img width="777" height="262" alt="Image" src="https://github.com/user-attachments/assets/b3d0bfd8-2fa0-4a2a-87ee-80df89a1bef0" />
 
 ---
 
