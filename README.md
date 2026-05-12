@@ -84,25 +84,25 @@ terraform apply -auto-approve
 ```
 ###  🔐 Security:
 
-Terraform state files are ignored<br>
-AWS keys are not committed<br>
-Security groups restrict access<br>
-Sensitive files excluded via .gitignore<br>
+1.Terraform state files are ignored<br>
+2.AWS keys are not committed<br>
+3.Security groups restrict access<br>
+4.Sensitive files excluded via .gitignore<br>
 
 ### 🧰 Prerequisites:
-Terraform installed<br>
-AWS CLI configured<br>
-IAM permissions for required services<br>
+1.Terraform installed<br>
+2.AWS CLI configured<br>
+3.IAM permissions for required services<br>
 
 ###  📌 Features:
-Multi-environment setup (Dev & Prod)<br>
-Modular Terraform architecture<br>
-Reusable infrastructure code<br>
-Scalable AWS design<br>
+1.Multi-environment setup (Dev & Prod)<br>
+2.Modular Terraform architecture<br>
+3.Reusable infrastructure code<br>
+4.Scalable AWS design<br>
 
 ### 👨‍💻 Author
 
-Ankit Rana
+Ankit Vinodsingh Rana
 DevOps & Cloud Enthusiast
 AWS | Terraform | CI/CD | Kubernetes
 
