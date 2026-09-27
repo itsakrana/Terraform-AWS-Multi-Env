@@ -1,4 +1,4 @@
-﻿<h2># 🚀 Terraform AWS Multi-Environment Infrastructure,</h2>
+﻿<h2># 🚀 Terraform AWS Multi-Environment Infrastructure </h2>
 
 ## 📌 Overview
 This project is a Terraform-based Infrastructure as Code (IaC) setup to provision AWS infrastructure across multiple environments (Dev & Prod).
